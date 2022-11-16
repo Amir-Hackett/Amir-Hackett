@@ -1,6 +1,6 @@
 <h2> Hi, I'm Amir Hackett!</h2>
 <img align='right' src="https://media.giphy.com/media/e6tA359EUw2kqhOBHL/giphy.gif" width="230">
-<p><em>Software Engineer Student at <a href="https://bootcamp.ce.ucf.edu/coding/">University of Central Florida Bootcamp</a><img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" width="50">
+<p><em>Software Engineer at <a href="https://www.solodev.com/">Solodev</a><img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" width="50">
 
 [![Linkedin: amir-hackett](https://img.shields.io/badge/-amirhackett-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amir-hackett/)](https://www.linkedin.com/in/amir-hackett/)
 [![GitHub Amir-Hackett](https://img.shields.io/github/followers/amir-hackett?label=follow&style=social)](https://github.com/Amir-Hackett)
