@@ -8,12 +8,21 @@
 
 ### <img src="https://media.giphy.com/media/ZdO1mXD9kgpCslD5ka/giphy.gif" width="50"> A little about me...  
 
-```javascript
-const amir = {
-  pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS],
-  tools: [MongoDB, Express.js, React.js, Node.js, Bootstrap, Jest, jQuery],
-  challenge: "I am doing my best to graduate and get my UCF Cert"
+```jsx
+import SoftwareDeveloper from 'amirhackett';
+
+class Bio extends SoftwareDeveloper {
+  name     = 'Amir Hackett';
+  title    = 'Software Developer';
+  company  = 'Solodev | Hybrid';
+  location = 'Orlando, FL';
+}
+
+class Skills extends SoftwareDeveloper {
+  languages  = ['JavaScript', 'PHP', 'HTML', 'CSS'];
+  databases  = ['SQL', 'MongoDB','PostgreSQL'];
+  frameworks = ['React', 'Bootstrap', 'Bulma'];
+  tools      = ['git']
 }
 ```
 
