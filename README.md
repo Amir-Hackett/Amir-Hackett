@@ -30,5 +30,4 @@ class Skills extends SoftwareDeveloper {
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amir-Hackett)](https://github.com/Amir-Hackett/github-readme-stats)
-
+[![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amir-Hackett&theme=midnight-purple=true)](https://github.com/Amir-Hackett/github-readme-stats)
