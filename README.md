@@ -29,3 +29,6 @@ class Skills extends SoftwareDeveloper {
 <img src="https://media.giphy.com/media/mIcH8OyRwpapbmYBgO/giphy.gif" width="60"> <em><b>I like to connect with different people</b> so if you like to say <b>hi, I'll be more than happy to meet!</b> :)</em>
 
 ---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amir-Hackett)](https://github.com/Amir-Hackett/github-readme-stats)
+
