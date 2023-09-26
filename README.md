@@ -28,7 +28,6 @@ apiDevelopmentTesting = ['Postman', 'Insomnia'];
 webSecurity = ['Security and Session Storage', 'User Authentication', 'Cookies', 'Local Storage'];
 collaborationTools = ['Slack', 'GitHub', 'Git', 'Bitbucket', 'Jira', 'Zoom', 'Heroku', 'Command Line'];
 methodologies = ['Agile/Scrum', 'Object-Oriented Programming', 'MVC Pattern', 'Test-Driven Development', 'Responsive Design', 'User Stories', 'Wireframing', 'QA focused development'];
-
 }
 ```
 
